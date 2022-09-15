@@ -1,2 +1,3 @@
-# idos_api
-An API for IDOS.cz
+# IDOS API
+
+An unofficial API for Czech IDOS bus/trains/... timetables.
